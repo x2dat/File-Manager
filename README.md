@@ -1,5 +1,7 @@
 <p align="center"><strong>This app is 100% Python.</strong><br>
 Visit The Official Site To Download It: <a href="https://x2dat.github.io/File-Manager/">https://x2dat.github.io/File-Manager/</a></p>
+<br>
+<br>
 
 <div align="center">
 --------------------------------------------------------------------------------------------------------------------------------------
