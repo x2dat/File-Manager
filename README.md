@@ -1,6 +1,9 @@
 This app is 100% Python.
 Visit The Official Site To Download It: https://x2dat.github.io/File-Manager/
 
+<div align="center">
+
+```txt
 --------------------------------------------------------------------------------------------------------------------------------------
 | How to install:                                                                                                                    |
 | 1- Create a new folder anywhere in your laptop other than C:\Program Files\ OR any place named program files.                      |
@@ -10,6 +13,7 @@ Visit The Official Site To Download It: https://x2dat.github.io/File-Manager/
 | 5- You will notice that in your folder, a new file named "file_date.json" was created: DO NOT DELETE IT, it needs to stay there!!! |
 | 6- If the app was successfully downloaded, everything should run fine. (You don't need wifi to use the app)                        |
 --------------------------------------------------------------------------------------------------------------------------------------
+</div> ```
 
 App Informations:
   -Add Files
