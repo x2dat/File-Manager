@@ -13,7 +13,7 @@ Visit The Official Site To Download It: https://x2dat.github.io/File-Manager/
 | 5- You will notice that in your folder, a new file named "file_date.json" was created: DO NOT DELETE IT, it needs to stay there!!! |
 | 6- If the app was successfully downloaded, everything should run fine. (You don't need wifi to use the app)                        |
 --------------------------------------------------------------------------------------------------------------------------------------
-</div> ```
+</div> <p></p> ```
 
 App Informations:
   -Add Files
