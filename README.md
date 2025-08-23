@@ -1,7 +1,7 @@
 <p align="center"><strong>This app is 100% Python.</strong><br>
 Visit The Official Site To Download It: <a href="https://x2dat.github.io/File-Manager/">https://x2dat.github.io/File-Manager/</a></p>
 
-<div align="center" style="font-family: monospace; background: #111; color: #0f0; padding: 15px; border-radius: 8px; width: 95%; max-width: 900px; margin: 20px auto; white-space: pre; text-align: left;">
+<div align="center">
 --------------------------------------------------------------------------------------------------------------------------------------
 | How to install:                                                                                                                    |
 | 1- Create a new folder anywhere in your laptop other than C:\Program Files\ OR any place named program files.                      |
