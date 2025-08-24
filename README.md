@@ -27,5 +27,5 @@ Visit The Official Site To Download It: <a href="https://x2dat.github.io/File-Ma
 - The App Is So Light Your Device Won’t Be Affected By It (only if you have years of information saved or if your device is old)
 
 ### Informations:
-- This is only the beta version,o evrything works, but you wont have much detail and the UI is pretty basic
-- V2 is out or comming out soon ( It will have a way better UI, colors and a windows-11 type theme for a clean feeling!)
+- 2025-08-22 | This is only the beta version, evrything works, but you wont have much detail and the UI is pretty basic
+- 2025-08-23 | V2 is out ; PyQt6 -> better UI but file is 4 times bigger (but still 34mb isn't alot - 9mb to 34mb)
