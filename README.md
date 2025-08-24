@@ -24,4 +24,8 @@ Visit The Official Site To Download It: <a href="https://x2dat.github.io/File-Ma
 - Each Files, Notes And Links Are Stored By Day (ex: 2025-08-22 | Math class 03 ; 2025-08-23 | Bio organic class 02 and English book)  
 - Everything Is Stored On **YOUR** Device Via A .json File ; If You Modify The File You Could Corrupt The App And Lose All Your Information  
 - No BS, The App Is Simple And Easy To Understand  
-- The App Is So Light Your Device Won’t Be Affected By It (only if you have years of information saved or if your device is old)  
+- The App Is So Light Your Device Won’t Be Affected By It (only if you have years of information saved or if your device is old)
+
+### Informations:
+- This is only the beta version,o evrything works, but you wont have much detail and the UI is pretty basic
+- V2 is comming out soon, once im finished working on it. It will have a way better UI, colors and a windows-11 type theme for a clean feeling!
