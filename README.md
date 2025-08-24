@@ -28,4 +28,4 @@ Visit The Official Site To Download It: <a href="https://x2dat.github.io/File-Ma
 
 ### Informations:
 - This is only the beta version,o evrything works, but you wont have much detail and the UI is pretty basic
-- V2 is comming out soon, once im finished working on it. It will have a way better UI, colors and a windows-11 type theme for a clean feeling!
+- V2 is out or comming out soon ( It will have a way better UI, colors and a windows-11 type theme for a clean feeling!)
