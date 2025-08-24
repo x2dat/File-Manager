@@ -14,7 +14,7 @@ Visit The Official Site To Download It: <a href="https://x2dat.github.io/File-Ma
 </pre>
 
 ### New look:
-<img src="ss.png" width="600">
+<img src="ss1.png" width="600">
 
 ### App Informations:
 - Add Files  
