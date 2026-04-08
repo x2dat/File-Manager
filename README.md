@@ -8,7 +8,7 @@ Visit The Official Site To Download It: <a href="https://x2dat.github.io/File-Ma
 | 2- Visit: https://x2dat.github.io/File-Manager/ and click on the "Download For Windows button".                                    |
 | 3- When the downloading promt pops-up, slect the folder that you created before and install it there.                              |
 | 4- Open the file (exeversion ; you are free to change the name) and add/create any file/note.                                      |
-| 5- You will notice that in your folder, a new file named "file_date.json" was created: DO NOT DELETE IT, it needs to stay there!!! |
+| 5- You will notice that in your folder, a new file named "file_data.json" was created: DO NOT DELETE IT, it needs to stay there!!! |
 | 6- If the app was successfully downloaded, everything should run fine. (You don't need wifi to use the app)                        |
 --------------------------------------------------------------------------------------------------------------------------------------
 </pre>
