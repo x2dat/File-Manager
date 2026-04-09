@@ -12,9 +12,9 @@ Visit The Official Site To Download It: <a href="https://x2dat.github.io/File-Ma
 | 6- If the app was successfully downloaded, everything should run fine. (You don't need wifi to use the app)                        |
 --------------------------------------------------------------------------------------------------------------------------------------
 </pre>
-<br> ###--- <br>
+
 ### App Informations:
-<br>
+
 - Add Files: Easily attach local documents to your daily log. <br>
 - Add Links: Save URLs for quick access later. <br>
 - Create Notes: Write down thoughts or reminders directly in the app. <br>
@@ -26,9 +26,9 @@ Visit The Official Site To Download It: <a href="https://x2dat.github.io/File-Ma
 - Local Storage: Data is stored 100% on YOUR device in a file_data.json file. No cloud, no tracking, total privacy. <br>
 - Lightweight Build: Designed to be extremely light on system resources, even with large datasets. <br>
 - No-Nonsense Design: A clean, intuitive interface that focuses on speed and utility. <br>
-<br> ###--- <br>
+
 ### Informations:
-<br>
+
 - 2025-08-22 | Beta Version: The initial proof of concept. Fully functional but with a basic Tkinter UI and minimal details. <br>
 - 2025-08-23 | V2 Update: Ported to PyQt6. Significant UI overhaul; file size increased from 9MB to 34MB to support the more robust framework. <br>
 - 2026-03-12 | V3.1 - Performance: Introduced the Background Scanner and Splash Screen. Moved heavy file operations to separate threads to eliminate lag. <br>
