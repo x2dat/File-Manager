@@ -3,6 +3,7 @@
 ## Supported Versions
 
 Updates are focused on the most recent releases to ensure compatibility with Windows file system changes and PyQt6 updates.
+(Note that only the last update of each version are public)
 
 | Version | Supported          |
 | ------- | ------------------ |
