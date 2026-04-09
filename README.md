@@ -13,22 +13,23 @@ Visit The Official Site To Download It: <a href="https://x2dat.github.io/File-Ma
 --------------------------------------------------------------------------------------------------------------------------------------
 </pre>
 
-### New look:
-<img src="ss1.png" width="600">
-
 ### App Informations:
-- Add Files  
-- Add Links  
-- Create Notes  
-- Modify any of them  
-- Open Created Links (ex: link → opens your default navigator)  
-- Open Created Files (ex: Files → prompt inside the python app)  
-- Open Created Notes (ex: Notes → prompt inside the python app)  
-- Each Files, Notes And Links Are Stored By Day (ex: 2025-08-22 | Math class 03 ; 2025-08-23 | Bio organic class 02 and English book)  
-- Everything Is Stored On **YOUR** Device Via A .json File ; If You Modify The File You Could Corrupt The App And Lose All Your Information  
-- No BS, The App Is Simple And Easy To Understand  
-- The App Is So Light Your Device Won’t Be Affected By It (only if you have years of information saved or if your device is old)
+<br>
+- Add Files: Easily attach local documents to your daily log.
+- Add Links: Save URLs for quick access later.
+- Create Notes: Write down thoughts or reminders directly in the app.
+- Modify Entries: Rename files or links and edit note content at any time.
+- Open Links: One click opens links in your system’s default browser.
+- Open Files: Launch documents directly through the app using native system handlers.
+- View Notes: Pop-up interface allows you to read or edit your notes without leaving the main view.
+- Chronological Storage: Everything is organized by date headers (e.g., 2026-04-08), keeping your history structured and searchable.
+- Local Storage: Data is stored 100% on YOUR device in a file_data.json file. No cloud, no tracking, total privacy.
+- Lightweight Build: Designed to be extremely light on system resources, even with large datasets.
+- No-Nonsense Design: A clean, intuitive interface that focuses on speed and utility.
 
 ### Informations:
-- 2025-08-22 | This is only the beta version, evrything works, but you wont have much detail and the UI is pretty basic
-- 2025-08-23 | V2 is out ; PyQt6 -> better UI but file is 4 times bigger (but still 34mb isn't alot - 9mb to 34mb)
+<br>
+- 2025-08-22 | Beta Version: The initial proof of concept. Fully functional but with a basic Tkinter UI and minimal details.
+- 2025-08-23 | V2 Update: Ported to PyQt6. Significant UI overhaul; file size increased from 9MB to 34MB to support the more robust framework.
+- 2026-03-12 | V3.1 - Performance: Introduced the Background Scanner and Splash Screen. Moved heavy file operations to separate threads to eliminate lag.
+- 2026-04-08 | V3.2 - Optimization: Added Search Debouncing, UI State Restoration, and Fixed-Grid Layouts for a professional-grade user experience.
